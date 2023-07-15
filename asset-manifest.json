@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaplanh/interview-question-app/static/css/main.e5bbdd66.css",
+    "main.js": "/kaplanh/interview-question-app/static/js/main.cdc58270.js",
+    "index.html": "/kaplanh/interview-question-app/index.html",
+    "main.e5bbdd66.css.map": "/kaplanh/interview-question-app/static/css/main.e5bbdd66.css.map",
+    "main.cdc58270.js.map": "/kaplanh/interview-question-app/static/js/main.cdc58270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5bbdd66.css",
+    "static/js/main.cdc58270.js"
+  ]
+}
